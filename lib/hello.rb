@@ -1,4 +1,4 @@
-def hello_t(array){|name| puts name}
+def hello_t(array){|name| puts "#{name}}
   yield
 end
 
